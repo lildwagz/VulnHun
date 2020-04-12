@@ -58,7 +58,7 @@ Or run in terminal: sudo apt-get install php5 php5-cli php5-curl curl libcurl3
 ```
 
 
-```
+
 
 
 Screenshot
