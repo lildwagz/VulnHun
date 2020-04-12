@@ -62,7 +62,7 @@ Or run in terminal: sudo apt-get install php5 php5-cli php5-curl curl libcurl3
 
 
 Screenshot
-----
+
 <img src="https://raw.githubusercontent.com/lildwagz/VulnHun/master/photo_2020-04-12_12-50-52.jpg">
 <img src="https://raw.githubusercontent.com/lildwagz/VulnHun/master/photo_2020-04-12_12-50-54.jpg">
 
